@@ -2,7 +2,7 @@
 title: Eunsu's Blog
 subtitle: by Eunsu Shin
 email: ssues0000@gmail.com
-description: This is the section of description
+description: This is the section of description 한글도 함께 적어봅니다.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Eunsu
